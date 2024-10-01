@@ -38,10 +38,10 @@ Matplotlib / Seaborn (for visualizations)
 
 ## Usage 💻
 
-1. Ensure the dataset (train (ANN).csv) is in the root directory.
+1. Ensure to extract the compressed dataset (Credit_score_dataset.rar).
 2. Run the notebook or script to preprocess the data and train the model:
     ```bash
-    jupyter notebook Final_ann.ipynb
+    jupyter notebook Credit_score_prediction.ipynb
 3. After training, the model will classify customer credit scores.
 
 ## Results & Conclusions 🏁
