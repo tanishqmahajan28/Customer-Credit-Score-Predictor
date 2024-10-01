@@ -26,7 +26,7 @@ The dataset contains customer financial information such as income, loan details
    - Optimize the model using the Adam optimizer and categorical cross-entropy loss.
 
 3. **Evaluation**
-   - Evaluate the model performance using accuracy, precision, recall, and F1-score.
+   - Evaluate the model performance using accuracy score.
    - Visualize loss and accuracy metrics over epochs.
 
 ## Dependencies 🔧
